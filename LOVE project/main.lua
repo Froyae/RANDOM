@@ -3,6 +3,7 @@ local enemy = require "Enemy";
 local button = require "Button";
 
 --pushed
+--pushed seconded
 
 math.randomseed(os.time());
 
